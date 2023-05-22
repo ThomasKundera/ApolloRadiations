@@ -6,11 +6,11 @@ Starting by Apollo 11.
 
 ### Solar rays
    - Getting realistic spectrum of solar radiations outside of solar storms, at Earth distance.
-   - Getting their shapes from sea level up to Moon distance, so (taking into account atmospheric and geomagnetism filtering)
+   - Getting their shapes from sea level up to Moon distance, so taking into account atmospheric and geomagnetism filtering.
 
 ### Comic rays
    - Getting realistic spectrum of interplanterary cosmic ray.
-   - Getting their shapes from sea level up to Moon distance, so (taking into account atmospheric and geomagnetism filtering)
+   - Getting their shapes from sea level up to Moon distance, so taking into account atmospheric and geomagnetism filtering.
 
 ### Moon surface radioactivity
    - Moon surface is slighty active, getting spectums shapes.
