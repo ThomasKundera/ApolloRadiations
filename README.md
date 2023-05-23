@@ -36,3 +36,9 @@ Starting by Apollo 11.
 ### Modelling rays/human interractions
    - To get an equivalent dose
 
+
+
+## Foresaw ressources
+    - https://www.astropy.org/
+    - https://github.com/nasa/radbelt
+    
