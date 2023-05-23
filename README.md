@@ -15,9 +15,8 @@ Starting by Apollo 11.
 ### Moon surface radioactivity
    - Moon surface is slighty active, getting spectums shapes.
 
-### Modelling trahjectory of CSM/LM/EVAs
+### Modelling trajectory of CSM/LM/EVAs
    - To get an integrated spectrump on a whole mission
-
 
 ### Modelling CSM and LM
    - Could be a very simple sphere to start with.
