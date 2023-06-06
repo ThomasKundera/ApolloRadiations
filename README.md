@@ -37,6 +37,14 @@ Starting by Apollo 11.
    - To get an equivalent dose
 
 
+## Order of explanation
+
+- sources of radioactivity?
+- kinds of radioactive emissions
+- absorption/effects of radioactivity
+- matter becoming active?
+
+
 
 ## Usefull ressources
 
