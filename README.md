@@ -39,9 +39,9 @@ Starting by Apollo 11.
 
 ## Order of explanation
 
-- sources of radiations?
-- kinds of ionisation radiations emissions
-- absorption/effects of rays
+- sources of radioactivity?
+- kinds of radioactive emissions
+- absorption/effects of radioactivity
 - matter becoming active?
 
 
