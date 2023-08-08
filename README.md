@@ -9,31 +9,31 @@ Starting by Apollo 11.
    - Getting their shapes from sea level up to Moon distance, so taking into account atmospheric and geomagnetism filtering.
 
 ### Comic rays
-   - Getting realistic spectrum of interplanterary cosmic ray.
+   - Getting realistic spectrum of interplanetary cosmic ray.
    - Getting their shapes from sea level up to Moon distance, so taking into account atmospheric and geomagnetism filtering.
 
 ### Moon surface radioactivity
-   - Moon surface is slighty active, getting spectums shapes.
+   - Moon surface is slightly active, getting spectrum shapes.
 
-### Modelling trajectory of CSM/LM/EVAs
-   - To get an integrated spectrump on a whole mission
+### Modeling trajectory of CSM/LM/EVAs
+   - To get an integrated spectrum on a whole mission
 
-### Modelling CSM and LM
+### Modeling CSM and LM
    - Could be a very simple sphere to start with.
    - Get realistic spectrum behind their shielding.
 
-### Modelling cameras
+### Modeling cameras
    - Could be a very simple sphere to start with
    - Get realistic spectrum behind their shielding.
 
-### Modelling spacesuits
+### Modeling spacesuits
    - Also a very simple shape to start with.
    - Get realistic spectrum behind their shielding.
 
-### Modelling rays/photographic film interactions
+### Modeling rays/photographic film interactions
    - So that to know which effect to expect from a given dose
 
-### Modelling rays/human interractions
+### Modeling rays/human interactions
    - To get an equivalent dose
 
 
